@@ -2,7 +2,7 @@
   "name": "broccoli-fingerprint",
   "version": "0.0.5",
   "description": "Fingerprint assets with broccoli",
-  "repository": "https://github.com/moudy/broccoli-fingerprint",
+  "repository": "https://github.com/weahead/broccoli-fingerprint",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,7 +11,7 @@
     "broccoli-plugin",
     "fingerprinting"
   ],
-  "author": "Moudy",
+  "author": "Moudy & We ahead",
   "license": "MIT",
   "dependencies": {
     "broccoli": "^0.12.3",
